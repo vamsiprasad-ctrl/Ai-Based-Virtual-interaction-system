@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+pyautogui
+numpy
+SpeechRecognition
+pyttsx3
+pyaudio
+pipwin
+sounddevice
+google-generativeai
