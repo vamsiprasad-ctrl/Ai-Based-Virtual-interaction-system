@@ -10,7 +10,7 @@ if iris_ratio > 0.60:
     return "LEFT"    # But high ratio means iris is RIGHT!
 elif iris_ratio < 0.40:
     return "RIGHT"   # But low ratio means iris is LEFT!
-```
+```py
 
 **Fix Applied:**
 ```python
